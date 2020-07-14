@@ -12,4 +12,3 @@ defaultEntryPoints = ["http","https"]
       # 默认路径，勿修改
       certFile = "/ssl/tls.crt"
       keyFile = "/ssl/tls.key"
-
